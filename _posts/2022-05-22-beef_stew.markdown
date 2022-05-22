@@ -1,0 +1,40 @@
+---
+
+layout: post
+
+title: "Beef Stew"
+
+date: 2022-05-22 15:56:04 -0500
+
+categories: jekyll update
+
+---
+
+###  Ingredients
+
+- Onion \| 1 \|
+- Carrots \| 4 \|
+- Celery \| 1/2 Bunch \|
+- Red potatoes \| 2 Pounds \|
+- Olive oil \| 2 Tablespoons \|
+- Garlic \| 4 Cloves Minced \|
+- Beef stew meat \| 1 & 1/2 Pounds \|
+- Salt
+- Pepper
+- All-purpose flour \| 1/4 Cup \|
+- Beef broth \| 2 Cups \|
+- Dijon mustard \| 2 Tablespoons \|
+- Worcestershire sauce \| 1 Tablespoon \|
+- Soy sauce \| 1 Tablespoon \|
+- Brown sugar \| 1/2 Tablespoon \|
+- Dried rosemary \| 1/2 Tablespoon \|
+- Dried thyme \| 1/2 Teaspoon \|
+
+###  Steps
+
+- Dice the **onion** and slice the **carrots** and **celery**. Cut the **potatoes** into one-inch cubes. Put the vegetables in the slow cooker.
+- Place the **beef** in a large bowl and season liberally with **salt** and **pepper**. Add the **flour** and toss the meat until it is coated.
+- Heat the **olive oil** in a large heavy skillet over medium heat. Saute the **garlic** in the oil for about 1 minute, or until soft and fragrant.
+- Add the floured **beef** and all the **flour** from the bowl to the skillet. Let the beef cook without stirring for a few minutes to allow it to brown on one side. Stir and repeat until most or all sides of the beef pieces are browned. Add the browned beef to the slow cooker and stir to combine with the vegetables.
+- Return the skillet to the burner and turn the heat down to low. Add the **beef broth**, **Dijon mustard**, **Worcestershire sauce**, **soy sauce**, **brown sugar**, **rosemary**, and **thyme** to the skillet. Stir to combine the ingredients and dissolve the browned bits from the bottom of the skillet. Once everything is dissolved, pour the sauce over the ingredients in the slow cooker.
+- Place the lid on the slow cooker and cook on high for 4 hours. After 4 hours, remove the lid and stir the stew, breaking the beef into smaller pieces as you stir. Taste the stew and adjust the salt if needed.

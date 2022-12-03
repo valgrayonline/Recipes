@@ -25,6 +25,7 @@ categories: jekyll update
 - Pinto Beans \|  32 Ounces \|
 - Corn \|  2 Cups \|
 - Salt and Pepper \| To Taste \|
+- Fritos \| NON-OPTIONAL \|
 
 ### Toppings
 - Shredded Cheddar Chease
@@ -38,5 +39,5 @@ categories: jekyll update
 - Bring to a boil and reduce heat. Simmer uncovered for 20 minutes
 - Add **frozen corn**
 
-> Fritos optional, but not really
+> Fritos
 
